@@ -1,6 +1,6 @@
 import { Api } from "../config/interceptor";
 
-const url = "http://localhost:5000/auth";
+const url = "/auth";
 
 const AuthService = {};
 
